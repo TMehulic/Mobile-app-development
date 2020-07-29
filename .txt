@@ -1,0 +1,21 @@
++++++ Tarik Mehulić
++++++ 18349
++++++ 2019/20
++++++ RMA
+
+
+Napomene!
+
+-Godine u datumu imaju opseg od 1920.-2120.
+-Prilikom unosa tipa transakcije, prihvaćeni su sljedeći unosi:
+	"Regular income",
+	"Regular payment",
+	"Purchase",
+	"Individual income",
+	"Individual payment".
+-Početni budžet:9000, TotalLimit:5000, MonthLimit:3000.
+
+
+UPDATE!!!
+-Promijenjeno je ažuriranje budžeta prilikom edita/add/delete transakcija.
+-Sada postoje samo pozitivne vrijednosti za amount.
